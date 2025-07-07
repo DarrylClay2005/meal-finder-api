@@ -25,9 +25,9 @@ The API name and base URL
 
 A short description of the theme and purpose of the project
 
-Your Postman screenshot
+Postman screenshot
 
 Check Screenshot Files Below
 
-A live link to your deployed GitHub Pages site (can be a placeholder for now)
+A live link to deployed GitHub Pages site
 

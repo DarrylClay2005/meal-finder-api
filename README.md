@@ -13,3 +13,21 @@ Create a Postman Collection with:
 A base URL set as a collection variable
 
 At least 2 different GET requests to the API
+
+Part 2: Create Capstone Repo
+Create a GitHub repo named something appropriate (e.g., dog-gallery, meal-finder, etc.).
+
+Add a README.md that includes:
+
+The API name and base URL
+
+
+
+A short description of the theme and purpose of the project
+
+Your Postman screenshot
+
+Check Screenshot Files Below
+
+A live link to your deployed GitHub Pages site (can be a placeholder for now)
+

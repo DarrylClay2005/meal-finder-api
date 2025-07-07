@@ -4,6 +4,8 @@ Capstone Prep: To Do List (Choose and Explore A API For The Project) (Set up Git
 Part 1: Choose and Explore A Chosen API
 Choose a public API that requires no authentication.
 
+API That Will Be Used!
+
 Use Postman to test at least one endpoint from that API:
 
 Example: GET https://dog.ceo/api/breeds/image/random
@@ -21,9 +23,9 @@ Add a README.md that includes:
 
 The API name and base URL
 
+Free Meal Finder API 
 
-
-A short description of the theme and purpose of the project
+https://www.themealdb.com/api/json/v1/1/random.php
 
 Postman screenshot
 
